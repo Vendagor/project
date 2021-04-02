@@ -42,9 +42,6 @@ if (a != null && b != null && a!= '' && b != '' && a.length < 50) {
 }*/
 
 
-
-
-
 if (personalMovieDB.count < 10) {
    console.log("Просмотрено довольно мало фильмов");
 } else if (personalMovieDB.count >= 10 && personalMovieDB.count < 30) {
@@ -122,3 +119,6 @@ if (num < 49) {
    // }
    // console.log(i);
  //}
+
+/* Function */
+
